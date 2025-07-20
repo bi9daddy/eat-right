@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Eat Right – Vegan Plan</title>
+</head>
+<body>
+  <h1>Eat Right – Vegan Plan</h1>
+  <p>Each week you'll receive a QLD grocery list and 5 fully vegan dinner recipes based entirely on weekly specials.</p>
+  <a href="subscribe.html?diet=vegan">Subscribe Now – $20/month</a>
+</body>
+</html>
